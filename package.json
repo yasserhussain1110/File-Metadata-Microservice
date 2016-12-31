@@ -11,8 +11,7 @@
     "express",
     "javascript",
     "node",
-    "multi-part",
-    "request"
+    "multipart form"
   ],
   "author": "Yasser Hussain",
   "license": "MIT",

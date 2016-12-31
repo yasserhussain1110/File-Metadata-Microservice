@@ -1,0 +1,19 @@
+{
+  "name": "file-metadata-microservice",
+  "version": "1.0.0",
+  "description": "File Metadata Microservice For FCC Challenges",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "FCC",
+    "express",
+    "javascript",
+    "node",
+    "multi-part",
+    "request"
+  ],
+  "author": "Yasser Hussain",
+  "license": "MIT"
+}
